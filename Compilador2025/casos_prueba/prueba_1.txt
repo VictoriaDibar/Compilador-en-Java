@@ -1,0 +1,13 @@
+MAIN{
+   var A, B, C2;
+   uint F(uint C){
+       var C2;
+       C:= 7UI;
+   }
+   dfloat F2(uint C){
+       var C2;
+       C:= 7UI;
+   }
+   A := 1UI;
+   C2 := F2(A -> C);
+}
